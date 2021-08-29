@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DbOper.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <h1>User List</h1>
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => user.UserId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => user.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => user.Address)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = user.UserId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = user.UserId }, new { onclick = "return confirm('Are you sure to delete?')" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\bin\Debug\net5.0\DbOper.deps.json
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\bin\Debug\net5.0\DbOper.dll
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\bin\Debug\net5.0\ref\DbOper.dll
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\bin\Debug\net5.0\DbOper.pdb
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.csproj.AssemblyReference.cache
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.Properties.Resources.resources
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.csproj.GenerateResource.cache
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.AssemblyInfoInputs.cache
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.AssemblyInfo.cs
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.dll
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\ref\DbOper.dll
+C:\Users\rahul\Data\Development\Development\DbOper\DbOper\DbOper\obj\Debug\net5.0\DbOper.pdb
